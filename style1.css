@@ -17,8 +17,8 @@ body{
 }
 .header{
     background:#022335;
-     max-width:1200px;
-    width:100%;
+     max-width:1600px;
+     width:100%;
      margin:0 auto;
     left:0;
     top:0;
@@ -30,11 +30,9 @@ body{
 
 }
 .container{
-    max-width:1200px;
+    max-width:1600px;
     width:100%;
     margin:0 auto;
-
-
     display:flex;
     align-items:center;
     justify-content:space-between;
@@ -42,7 +40,7 @@ body{
 }
 #homeimage{
 
-    max-width:1200px;
+    max-width:1600px;
     width:100%;
     margin:0 auto;
 
@@ -213,13 +211,13 @@ body{
     }
 }
 table {
-  text-align: center;
+  text-align: left;
 
 }
 
 td {
 
-  padding:10px;
+
 }
 
 
